@@ -1,3 +1,8 @@
-.vscode
-env
+# os side-effects
 .DS_store
+
+# node modules
+node_modules/
+
+# web_client babel prod
+web_client/dist/
