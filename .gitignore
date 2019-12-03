@@ -4,5 +4,5 @@
 # node modules
 node_modules/
 
-# web_client babel prod
-web_client/dist/
+# web_client babel prod output
+web_client/prod/
