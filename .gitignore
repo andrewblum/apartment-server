@@ -1,8 +1,9 @@
-# os side-effects
+# OS side-effects
 .DS_store
 
+# NPM and Yarn
 # node modules
 node_modules/
 
-# web_client babel prod output
+# Web Client
 web_client/prod/
