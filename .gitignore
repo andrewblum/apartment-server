@@ -1,3 +1,9 @@
-.vscode
-env
+# OS side-effects
 .DS_store
+
+# NPM and Yarn
+# node modules
+node_modules/
+
+# Web Client
+web_client/prod/
